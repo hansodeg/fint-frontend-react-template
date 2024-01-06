@@ -1,4 +1,4 @@
-
+#### Dette er en react app med typescript ment til å brukes som mal i flere prosjekter etter behov 
 
 
 
